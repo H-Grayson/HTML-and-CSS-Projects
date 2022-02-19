@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="Basic_CSS_2.css">
+	</head>
+	<body> 
+		<p> This is a sentence that utilizes the "p" element</p>
+		
+		<h1> This is another line of text however it uses &lt</h1>
+
+	</body>
+</html>

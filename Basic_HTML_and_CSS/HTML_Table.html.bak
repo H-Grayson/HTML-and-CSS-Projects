@@ -1,0 +1,32 @@
+<!DOCTTYPE html>
+<html lang="en">
+	<body>
+		<h1>Student Information</h1>
+		<table style="width:100%">
+			<tr>
+				<th>Name</th>
+				<th>Age</th>
+				<th>Favorite Food</th>
+				<th>Current Career</th>
+			</tr>
+			<tr>
+				<td>Amy Fikes</td>
+				<td>22</td>
+				<td>Sushi</td>
+				<td>Nurse</td>
+			<tr>
+			<tr>
+				<td>Cindy lu</td>
+				<td>34</td>
+				<td>Hamburgers</td>
+				<td>Software Engineer</td>
+			</tr>
+			<tr>
+				<td>Ronald Weasley</td>
+				<td>18</td>
+				<td>Hawaiian food</td>
+				<td>Actor</td>
+			</tr>
+		</table>
+	</body>
+</html>

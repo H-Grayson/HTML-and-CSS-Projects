@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="My_style.css">
+		<title> Linking Stylesheets </title>
+	</head>
+	
+	<body>
+		<p> Hey over here! </p>
+		<p> These paragraphs should be styled with css </p>
+	</body>
+</html>

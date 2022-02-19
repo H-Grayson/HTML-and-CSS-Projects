@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+		rd {
+			color: red;
+			text-align: center;
+		</style>
+		
+		<title>"This is the title"</title>
+	</head>
+	
+	<body>
+		<div style="color: green">
+			<h1>Well howdy there, I hope you have a wonderful day!</h1>
+		</div>
+		
+		<rd> Well this will be the color red</rd>
+		
+	</body>
+</html>
