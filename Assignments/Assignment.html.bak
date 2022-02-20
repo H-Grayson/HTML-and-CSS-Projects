@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>This is a title for an Assignment</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+
+		<header>
+			<main>
+				<p>The superbowl is currently on</p>
+			</main>
+			<h1>I am watching it</h1>
+			<h3>The current score is</h3>
+			<h6>Rams 16 Bengals 20</h6>
+		<a href="https://i.imgur.com/stMQhad.png">Current score</a>
+		</header>
+		
+		<h2><blockquote>Song lyrics</h2>
+		<blockquote cite= "https://www.geeksforgeeks.org/html-tutorials/">
+		<blockquote>
+
+			<p>
+			"The curtains are closed now, nothin' to see
+			But a dozen dying roses at our feet
+			Your timin' is perfect, ironic to me
+			Showin' up the moment that you shouldn't be, oh"
+			</p>
+			
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/bfcZacwnVCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		</blockquote>
+		<nav>
+		<a href="Assignment.html">Home</a>
+		<a href="Dog.html">Dog Picture</a>
+		<a href="Dog_Video.html">Dog Video</a>
+		</nav>
+		
+		<footer>
+		<a href="dog.html">Picture of cute dog painting</a>
+		</footer>
+		
+	</body>
+	
+</html>

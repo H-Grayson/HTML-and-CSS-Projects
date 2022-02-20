@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	
+	<head>
+		<title>Youtube Video</title>
+		<meta charset="utf-8">
+	</head>
+	
+	<body>
+		<h1><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">A video about dogs</a></h1>
+		
+		<h2><a href="https://www.youtube.com/watch?v=1EyUHiDKS1o">Another video about dogs</a></h2>
+	
+	</body>
+	<nav>
+	<a href="Assignment.html">Home</a>
+	<a href="Dog.html">Dog Picture</a>
+	<a href="Dog_Video.html">Dog Video</a>
+	</nav>
+</html>
