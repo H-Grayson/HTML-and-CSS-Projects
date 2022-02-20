@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title> Planets Weekly </title>
+
+	</head>
+	
+	<body>
+		
+		<!--NAV-->
+		<div>	
+			<div>
+				<ul>
+					<a href="#home" id="link"><li>HOME</li></a>
+					<a href="#videos" id="link"><li>VIDEO</li></a>
+					<a href="#pictures" id="link"><li>PICTURES</li></a>
+					<a href="#contact" id="link"><li>CONTACT</li></a>
+				</ul>
+			</div>
+		</div>
+		<!--END NAV-->
+		
+		<!--HOME-->
+		<section>
+			<div id="home">
+				<div>
+					<div>
+						<h1>Planets Weekly</h1>
+						<div>
+							<p>Week of Feb 20, 2022</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--END HOME-->
+		
+		<!--VIDEOS-->
+		<section>
+			<div id="videos">
+				<h1> The Planets of our Solar System Song </h1>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/PCxjuDePdCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		<!--PICTURES-->
+		<section>
+			<div id="pictures">
+				<h1>Pictures of Planets</h1>
+				<button type"button" class="collapsible">View Pictures (will be collapsible in the future)</button>
+				<div class="content">
+					
+						<!--Photo-Container-1-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_1.png" width="250" height="250" alt="Picture of Mercury">
+								<div>
+									<h3>Hover for Facts (Will be able to hover over for 2 facts)</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-1-->
+						
+						<!--Photo-Container-2-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_2.png" width="250" height="250"  alt="Picture of Venus">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-2-->
+
+						<!--Photo-Container-3-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_3.png" width="250" height="250"  alt="Picture of Earth">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-3-->
+
+						<!--Photo-Container-4-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_4.png" width="250" height="250"  alt="Picture of Mars">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-4-->
+
+						<!--Photo-Container-5-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_5.png" width="250" height="250"  alt="Picture of Jupiter">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-5-->
+						
+						<!--Photo-Container-6-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_6.png" width="250" height="250"  alt="Picture of Uranus">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-6-->						
+
+						<!--Photo-Container-7-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_7.png" width="250" height="250"  alt="Picture of Uranus">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-7-->
+
+						<!--Photo-Container-8-->
+						<div>
+							<div>
+								<img src=" ./images/thumb/thumbnail_8.png" width="250" height="250"  alt="Picture of Neptune">
+								<div>
+									<h3>Hover for Facts</h3>
+									<p>Fact 1: ...  </p>
+									<p>Fact 2: ...  </p>
+								</div>
+							</div>
+						</div>
+						<!--END-PHOTO-CONTAINER-8-->
+
+				</div>
+			</div>
+		</section>
+	</body>
+	
+	<footer>
+	<div id="contact">
+		<div>
+			<form action="" method="get">
+				First name: <input type="text" name="First_Name"><br>
+				Last name: <input type="text" name="Last_name"><br>
+				Email: <input type="text" name="Email"><br>
+				Phone number: <input type="text" name="Phone_number"><br>
+		</div>
+</html>
+	
